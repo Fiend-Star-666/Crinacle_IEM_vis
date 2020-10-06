@@ -1,4 +1,5 @@
 S=	64 Audio A/U12t	2000	Mild U-shape	Amazing bass (for a BA), top-tier resolution and detail-oriented signature.	12BA	Music Sanctuary demo unit	
+S=  	Vision Ears VE8 2700  Warm neutral  Extremely coherent signature with a pleasing tuning and high technicalities.  8BA E1 demo unit
 S=	Audeze LCD-i4 (Cipher)	2500	Harman-neutral	Low distortion, high resolution, excellent dynamics and expectedly open soundstage.	Planar	Stereo SG demo unit	
 S=	qdc 8SL/Gemini/Anole VX	1410	Neutral with bass boost	Reference tuning with good tonality and top-level resolution. Similar tunings across top tier models.	8/10BA	Music Sanctuary demo unit	
 S=	Shure KSE1200	2000	Bright DF-neutral	Easily at the top in terms of resolution and definition. Necessitates foam tips for proper tonal balance.	Electrostatic	A2A Melbourne demo unit	
